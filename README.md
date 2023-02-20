@@ -1,3 +1,3 @@
-# piggame Project
+# pig-game Project
 
-A game applicatiom.
+A game application.
